@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=smmu94&color=ff69b4)
 
-- 🤓 Tengo conocimiento en tecnologías y herramientas como 
+🤓 Tengo conocimiento en tecnologías y herramientas como 
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/92060330/170595262-6438fe27-f85a-4643-ae5d-4bd085d49156.png" alt="html-icon" width=40px />
@@ -17,8 +17,13 @@
 </div>
 
 
-- 🍔 Actualmente estoy desarrollado el proyecto [Burger Queen Api Client](https://github.com/smmu94/BOG004-burger-queen-api-client) empleando React 
-- 📫 Puedes contactarme en mi perfil de [LinkedIn](https://www.linkedin.com/in/stephaniemoralesu/)
+🍔 Actualmente estoy desarrollando el proyecto [Burger Queen Api Client](https://github.com/smmu94/BOG004-burger-queen-api-client) empleando React 
+
+🤓 Estoy motivada en aprender varios lenguajes de programación que me complementen como desarrolladora Front-End
+
+📫 Puedes contactarme en mi perfil de [LinkedIn](https://www.linkedin.com/in/stephaniemoralesu/)
+
+💞 Amo a mis mascotas y me encantan las películas de terror
 
 
 
