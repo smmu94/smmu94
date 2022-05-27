@@ -1,4 +1,7 @@
+![](header.png)
 <h3 align='center'> Estudiante de Desarrollo Web Front-End en Laboratoria | Ingeniera Civil </h3>
+
+![](https://komarev.com/ghpvc/?username=smmu94&color=ff69b4)
 
 - 🤓 Tengo conocimiento en tecnologías y herramientas como 
 
@@ -15,9 +18,7 @@
 
 
 - 🍔 Actualmente estoy desarrollado el proyecto [Burger Queen Api Client](https://github.com/smmu94/BOG004-burger-queen-api-client) empleando React 
-- 👯 
 - 📫 Puedes contactarme en mi perfil de [LinkedIn](https://www.linkedin.com/in/stephaniemoralesu/)
-- 💬
 
 
 
