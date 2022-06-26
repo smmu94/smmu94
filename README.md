@@ -1,5 +1,5 @@
 ![](header.png)
-<h3 align='center'> Estudiante de Desarrollo Web Front-End en Laboratoria | Ingeniera Civil </h3>
+<h3 align='center'> Front-End Developer en Laboratoria | Ingeniera Civil </h3>
 
 ![](https://komarev.com/ghpvc/?username=smmu94&color=ff69b4)
 
