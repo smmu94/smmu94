@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, TypeScript, and frontend testing (Jest, React Testing Library)**
 
-- 📫 How to reach me **📧 Email: stephaniemmu@gmail.com 💼 LinkedIn: Stephanie Morales**
+- 📫 How to reach me **📧 Email: stephaniemmu@gmail.com 💼 [LinkedIn](https://www.linkedin.com/in/stephaniemoralesu/)**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/158lAXi6rjtFkTbR3wV0NTA9W4VWo0T59/view)
 
@@ -33,6 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smmu94&show_icons=true&locale=en" alt="smmu94" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smmu94&" alt="smmu94" /></p>
 
 
