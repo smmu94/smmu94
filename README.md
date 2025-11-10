@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smmu94" alt="smmu94" /></a> </p>
 
-- 🔭 I’m currently working on [Blossom To-Do – A web app to manage tasks efficiently](https://github.com/smmu94/blossom-todo) & [Blossom Notes – A React Native app for note-taking](https://github.com/smmu94/blossom-notes-app)
-
-- 🌱 I’m currently learning **React Native & Expo SQLite Tailwind CSS Design Patterns**
-
-- 🤝 I’m looking for help with [blossom notes app](https://github.com/smmu94/blossom-notes-app)
+- 🌱 I’m currently learning **Python, SQL, Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [github repos](https://github.com/smmu94?tab=repositories)
 
