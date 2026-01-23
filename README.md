@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **📧 Email: stephaniemmu@gmail.com 💼 [LinkedIn](https://www.linkedin.com/in/stephaniemoralesu/)**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/158lAXi6rjtFkTbR3wV0NTA9W4VWo0T59/view)
+- 📄 Know about my experiences [resume]([https://drive.google.com/file/d/158lAXi6rjtFkTbR3wV0NTA9W4VWo0T59/view](https://drive.google.com/file/d/1qtbgWpBOAzykViVQFkrnxlPRgE2wRdHE/view))
 
 - ⚡ Fun fact **🎵 I love classic pop rock from the 70s, 80s, and 90s & discovering new places with my dogs 🐶**
 
